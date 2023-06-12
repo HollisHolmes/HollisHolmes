@@ -12,7 +12,7 @@ I have worked at places like:
   Reasearched, developed and delivered war simulations for the Canadian Military
 - 🛰️ [Ciena](https://www.ciena.ca/)
   Devloped automation and testing scripts to automate research and production workflows
-- 🛰️ [Brookfield] (https://www.bgis.com/)
+- 🏢 [Brookfield](https://www.bgis.com/)
   Analyzed financials for the Major Capital Projets divsion
 
 I have worked on personal projects involving:
