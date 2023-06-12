@@ -7,7 +7,7 @@ I have worked at places like:
 - :money_with_wings: [Budgeto](https://budgeto.com/en/) 
   Developed an API for a fintech accounting platform
 - :moneybag: [Ernst & Young](https://www.ey.com/en_ca) 
-  Built scallable solutions for multiple clients saving $300,000 ++
+  Built scalable solutions for multiple clients saving $300,000 ++
 - ⚔️ [Department of National Defence](https://www.canada.ca/en/department-national-defence.html)
   Reasearched and developed war simulations for the Canadian Military
 - 🛰️ [Ciena](https://www.ciena.ca/)
