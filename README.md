@@ -9,9 +9,9 @@ I have worked at places like:
 - :moneybag: [Ernst & Young](https://www.ey.com/en_ca) 
   Built scalable solutions for multiple clients saving $300,000 ++
 - ⚔️ [Department of National Defence](https://www.canada.ca/en/department-national-defence.html)
-  Reasearched and developed war simulations for the Canadian Military
+  Researched and developed war simulations for the Canadian Military
 - 🛰️ [Ciena](https://www.ciena.ca/)
-  Devloped automation and testing scripts to automate research and production workflows
+  Developed automation and testing scripts to automate research and production workflows
 - 🏢 [Brookfield](https://www.bgis.com/)
   Analyzed financials for the Major Capital Projets divsion
 
