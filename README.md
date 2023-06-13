@@ -13,7 +13,7 @@ I have worked at places like:
 - 🛰️ [Ciena](https://www.ciena.ca/)
   Developed automation and testing scripts to automate research and production workflows
 - 🏢 [Brookfield](https://www.bgis.com/)
-  Analyzed financials for the Major Capital Projets divsion
+  Analyzed financials for the Major Capital Projects division
 
 I have worked on personal projects involving:
 
