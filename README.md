@@ -25,7 +25,7 @@ I'm interested in topics like:
 Robotics, Statistics, Finance and Machine Learning
 
 Shoot me a message:  
-[:mailbox: Email](mailto:h.holmes.work@gmail.com) ||  [💼 Linkedin](https://www.linkedin.com/in/hollisholmes/)
+[:mailbox: Email](mailto:h.holmes.work@gmail.com)   |   [💼 Linkedin](https://www.linkedin.com/in/hollisholmes/)
 
 \- Hollis 😄
 
