@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a software developer, with a background in applied math and finance!
+I'm a software developer, with background in applied math and finance!
 
 I have worked at places like:
 
