@@ -5,7 +5,7 @@ I'm a software developer, with a background in applied math and finance!
 I have worked at places like:
 
 - :money_with_wings: [Budgeto](https://budgeto.com/en/) 
-  Developed an API for a fintech accounting platform
+  Developed an API for a fintech accounting platform, even used some dynamic programming!
 - :moneybag: [Ernst & Young](https://www.ey.com/en_ca) 
   Built scalable solutions for multiple clients saving $300,000 ++
 - ⚔️ [Department of National Defence](https://www.canada.ca/en/department-national-defence.html)
