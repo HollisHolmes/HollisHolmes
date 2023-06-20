@@ -1,4 +1,4 @@
-### Hi there <img src="https://github.com/HollisHolmes/HollisHolmes/blob/main/wave.gif" width="30px" alt="waving emoji">
+### Hi there!!   <img src="https://github.com/HollisHolmes/HollisHolmes/blob/main/wave.gif" width="30px" alt="waving emoji">
 
 I'm a software developer, with a background in applied math and finance!
 
